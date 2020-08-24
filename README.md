@@ -1,28 +1,32 @@
 # React Random Color  Game
 
 
-Clone your forked copy of this repo
+### Installation
 
-git clone https://github.com/barylyak/Task-Game-App.git
+1. Fork this repo
 
-Change directory into the newly cloned repo
+2. Clone your forked copy of this repo
 
-cd Task-Game-App
+   > git clone `https://github.com/barylyak/Task-Game-App.git`
 
-Install dependencies
+3. Change directory into the newly cloned repo
 
-npm install
+   > cd Task-Game-App
+     
+4. Install dependencies
 
-or
+   > npm install
 
-yarn install
+    or
 
-Start dev server
+   > yarn install
 
-npm start
+5. Start dev server
 
-or
+   > npm start
 
-yarn start
+    or
 
-Open a browser and navigate to localhost:3000 You should see the Memory Match Game page.
+   > yarn start
+
+6. Open a browser and navigate to `localhost:3000` You should see the Memory Match Game page.
